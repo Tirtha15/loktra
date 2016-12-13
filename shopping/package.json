@@ -1,0 +1,17 @@
+{
+  "name": "shopping",
+  "version": "1.0.0",
+  "description": "A web crawler for shopping.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tirtha Ghosh",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "express": "^4.14.0",
+    "request": "^2.79.0",
+    "underscore": "^1.8.3"
+  }
+}
