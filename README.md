@@ -16,5 +16,7 @@ shopping is a node.js app to crawl shopping.com and extract the required informa
   this app listens on port: 8081
   
   to run: 
+  
      node index.js
+     
      in browser hit any endpoint with the given queryparameters
